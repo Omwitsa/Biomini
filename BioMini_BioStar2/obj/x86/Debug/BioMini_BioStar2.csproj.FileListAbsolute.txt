@@ -1,0 +1,40 @@
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe.config
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.pdb
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.exe
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.pdb
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.csprojResolveAssemblyReference.cache
+D:\Backup\바탕화면(C)\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe.config
+D:\Backup\바탕화면(C)\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.exe
+D:\Backup\바탕화면(C)\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.pdb
+D:\Backup\바탕화면(C)\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe
+D:\Backup\바탕화면(C)\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.pdb
+D:\Backup\바탕화면(C)\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.csprojResolveAssemblyReference.cache
+D:\backup_each\바탕화면(C)_Each\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임님\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe.config
+D:\backup_each\바탕화면(C)_Each\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임님\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.exe
+D:\backup_each\바탕화면(C)_Each\TS업무\TS업무프로그램\1. BioStar 2\SDK_기엽주임님\BioMini_BioStar2\BioMini_BioStar2\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.pdb
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_170927\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe.config
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_170927\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.exe
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_170927\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.pdb
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_170927\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_170927\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.pdb
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_190903_SDK2.6.3.10\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe.config
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_190903_SDK2.6.3.10\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_190903_SDK2.6.3.10\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.pdb
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_190903_SDK2.6.3.10\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.csprojResolveAssemblyReference.cache
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_190903_SDK2.6.3.10\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.exe
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_190903_SDK2.6.3.10\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.pdb
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_191024_SDK2.6.3.12\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe.config
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_191024_SDK2.6.3.12\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.exe
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_191024_SDK2.6.3.12\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.pdb
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_191024_SDK2.6.3.12\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_191024_SDK2.6.3.12\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.pdb
+D:\YJ_WorkNotes\BioStar2_SDK\BioMini_BioStar2_Sample_191024_SDK2.6.3.12\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.csprojResolveAssemblyReference.cache
+D:\SourceCode\BioTime\New folder\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe.config
+D:\SourceCode\BioTime\New folder\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.exe
+D:\SourceCode\BioTime\New folder\BioMini_BioStar2\bin\x86\Debug\BioMini_BioStar2.pdb
+D:\SourceCode\BioTime\New folder\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.csprojAssemblyReference.cache
+D:\SourceCode\BioTime\New folder\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.csproj.CoreCompileInputs.cache
+D:\SourceCode\BioTime\New folder\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.csproj.CopyComplete
+D:\SourceCode\BioTime\New folder\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.exe
+D:\SourceCode\BioTime\New folder\BioMini_BioStar2\obj\x86\Debug\BioMini_BioStar2.pdb

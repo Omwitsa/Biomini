@@ -1,0 +1,6 @@
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\bin\x64\Debug\BioMini_BioStar2.exe.config
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\bin\x64\Debug\BioMini_BioStar2.exe
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\bin\x64\Debug\BioMini_BioStar2.pdb
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\obj\x64\Debug\BioMini_BioStar2.csprojResolveAssemblyReference.cache
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\obj\x64\Debug\BioMini_BioStar2.exe
+C:\Users\kylee\Documents\Visual Studio 2013\Projects\BioMini_BioStar2\BioMini_BioStar2\obj\x64\Debug\BioMini_BioStar2.pdb
